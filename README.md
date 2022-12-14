@@ -13,6 +13,7 @@ Open the app in the top level folder.
 - Done!
 
 Report any problems in GitHub. Link below.
+
 [Click for GitHub link](https://github.com/InfinityGorzan/Profile-Manager/releases)
 
 After that, you can move it to another folder to use it later or, delete it if you are sure you know it.
